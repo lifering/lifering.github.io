@@ -1,4 +1,3 @@
-<!DOCTYPE HTML>
 <html>
 <body>
 <h1>Welcome to lifering.github.io</h1>
