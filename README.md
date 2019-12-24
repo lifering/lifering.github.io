@@ -1,6 +1,5 @@
 <html>
 <body>
-<h1>Welcome to lifering.github.io</h1>
-<p>oi.buhtig.gnirefil ot emocleW</p>
+<p>Welcome to lifering.github.io</p>
 </body>
 </html>
